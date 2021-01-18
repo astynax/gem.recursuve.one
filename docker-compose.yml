@@ -1,0 +1,13 @@
+version: "3.3"
+services:
+  agate:
+    build: .
+    image: agate:latest
+    container_name: agate
+    restart: always
+    ports:
+      - "1965:1965/tcp"
+    volumes:
+      - ./keys/cert.pem:/var/gemini/cert.pem:ro
+      - ./keys/key.rsa:/var/gemini/key.rsa:ro
+      - ./data:/var/gemini/data:ro
