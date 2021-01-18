@@ -1,1 +1,12 @@
-# Hello, World!
+# Recursive.One
+
+```
+main = putStrLn "Hello, World!"
+```
+
+Welcome, traveller!
+
+This is a Gemini part of the [site] and someday there will be a mirror of [our wiki]. But for now you can browse the Web-part of Recursive.One.
+
+=> https://recursive.one site
+=> https://wiki.recursive.one our wiki
