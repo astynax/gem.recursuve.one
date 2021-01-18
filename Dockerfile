@@ -22,5 +22,5 @@ CMD /opt/bin/agate \
     --key ./key.rsa \
     --cert ./cert.pem \
     --addr 0.0.0.0:1965 \
-    --hostname gem.recursive.one \
+    --hostname recursive.one \
     --lang en-US
