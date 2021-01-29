@@ -1,0 +1,8 @@
+# 2021-01-29 init
+
+That's it. I'm now trying to write here about stuff. Also I plan to improve my skills of using Emacs/TRAMP. So there will be a text as plain as i will be possible. I'm not planning to add any kind of automation (except a couple defuns to simplify the editing itself). Low tech, you know. May be I'll even move this gemlog to the device I have a full control of - Raspberry Pi, old PC, etc. But for now the process of *logging itself looks fun to me. Because it's easy and I have not so many energy to spend it to something more complicated.
+
+Farewell and stay tuned!
+
+=> ./ Back to gemlog
+=> ../ Go home
