@@ -4,7 +4,8 @@ Hello! I'm astynax and this is my first try to write an actual *log. Let it be i
 
 ## Posts
 
-=> ./2021-01-29-init.gmi 2021-01-29 init
+=> ./2021-01-30-personal-aggregators.gmi 2021-01-30 - personal aggregators
+=> ./2021-01-29-init.gmi 2021-01-29 - init
 
 ## Return home
 

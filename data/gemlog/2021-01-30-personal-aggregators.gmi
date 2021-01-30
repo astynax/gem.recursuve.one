@@ -1,0 +1,16 @@
+# 2021-01-30 Personal aggregators
+
+Many Gemini users are using CAPCOM as the "start page". But some of active Gemini visitors aren't satisfied. Usually, their thoughts go in one of two directions:
+
+- An own instance of CAPCOM
+- Some kind of client-side aggregation
+
+=> gemini://gemini.circumlunar.space/~solderpunk/gemlog/gemini-aggregation-curation-etc.gmi "Gemini aggregation, curation, etc" (solderpunk)
+=> gemini://makeworld.gq/gemlog/2020-08-02-personal-feeds.gmi "Personal Feeds (response to Solderpunk)"
+
+For now I have two different clients on my phone and on my desktop. And there is no way to sync my subscriptions between them. My own dedicated "Gemini App" (server) could be a solution. But I don't want to edit any text files to update the subscriptions. Maybe I need a good-old Web App as the "admin interface"? Looks doable but not fun.
+
+Need to think about…
+
+=> ./ Back to gemlog
+=> ../ Go home
