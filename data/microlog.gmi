@@ -1,4 +1,11 @@
 # Astynax's microlog
 ## Just a stream of thoughts
 
+### 2021.02.16 14:34
+
+Init
+```
+:)
+```
+
 => . Home
