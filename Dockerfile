@@ -5,7 +5,7 @@ RUN apt-get update \
 
 WORKDIR /tmp
 
-RUN wget -O agate.gz https://github.com/mbrubeck/agate/releases/download/v2.3.0/agate.x86_64-unknown-linux-gnu.gz \
+RUN wget -O agate.gz https://github.com/mbrubeck/agate/releases/download/v2.5.2/agate.x86_64-unknown-linux-gnu.gz \
     && gunzip agate.gz \
     && mkdir -p /opt/bin \
     && mv agate /opt/bin \
