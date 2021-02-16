@@ -23,4 +23,5 @@ This is a Gemini part of the [site] and someday there will some content. Maybe a
 
 ## Stuff
 
+=> ./microlog.gmi Astynax's microlog
 => ./gemlog/index.gmi Astynax's gemlog
