@@ -8,8 +8,10 @@ from pathlib import Path
 def main():
     message = ' '.join(a.strip() for a in sys.argv[1:]).strip()
     if not message:
-        print('Usage: toot.py some non-empty message')
-        sys.exit()
+        print('New message:')
+        message = sys.stdin.read().strip()
+        if not message:
+            sys.exit()
 
     microlog = Path(sys.argv[0]).parent / '..' / 'data' / 'microlog.gmi'
     if not microlog.is_file():
